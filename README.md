@@ -117,7 +117,7 @@ Sistematização de Programação e Desenvolvimento Web. Projeto 01 - Uma landin
 <body>
     <header>
         <div class="logo">
-            <img src="logo.png" alt="Ortopedia Asa Sul">
+            <img src="logo.png" alt="Clínica Asa Sul">
         </div>
         <nav>
             <ul>
