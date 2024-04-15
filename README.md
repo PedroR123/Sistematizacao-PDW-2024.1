@@ -6,7 +6,7 @@ Sistematização de Programação e Desenvolvimento Web. Projeto 01 - Uma landin
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ortopedia Asa Sul</title>
+    <title>Clínica Asa Sul</title>
     <style>
         body {
             font-family: Arial, sans-serif;
